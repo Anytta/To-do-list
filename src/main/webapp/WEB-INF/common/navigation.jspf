@@ -1,0 +1,10 @@
+<nav class="navbar navbar-inverse ">
+
+	<ul class="nav navbar-nav ">
+		<li><a href="/login.do">Home</a></li>
+		<li><a href="/list-todos.do">To-do List</a></li>
+		<li><a href="/completed-todos.do">Completed Tasks</a></li>
+		<li><a href="https://timemanagementninja.com/"> Inspiration </a></li>
+		<li><a href="/logout.do">Logout</a></li>
+	</ul>
+</nav>

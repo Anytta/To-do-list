@@ -1,0 +1,12 @@
+
+<footer class="footer">
+
+	<p align="center">
+		<i> A good programmer is someone who looks both ways before
+			crossing a one-way street. </i> <br> Doug Linder
+	</p>
+
+	<script src="webjars/jquery/1.9.1/jquery.min.js"></script>
+	<script src="webjars/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+</footer>
