@@ -11,6 +11,6 @@ The login page view and list of tasks view are shown below:
 
 ![Login page](https://github.com/Anytta/To-do-list/blob/master/Login.png)
 
-<br>
+<br/>
 
 ![To-do list page](https://github.com/Anytta/To-do-list/blob/master/Todo.png)
