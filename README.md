@@ -7,3 +7,5 @@ The password and it's validation should be made more secure (https protocol).
 
 For learning pourposes there is only one user set up and there is no support for Polish alphabet. 
 
+![Tekst Alternatywny](C:/Users/Anita/Documents/GitHub/Todo/Login.png "Login page")
+
