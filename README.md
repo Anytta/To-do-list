@@ -1,3 +1,5 @@
+# To-do List
+
 This is an interactive web application written in Java as a Maven project, using JSP and Bootstrap; based on MVC design pattern. 
 It allows user to log in and then create his own to-do list entering tasks with name and category. The tasks are displayed in a table and can be deleted or moved to "Completed" list. It also allows to delete tasks from completed list and log out.
 
